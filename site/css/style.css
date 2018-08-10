@@ -1,0 +1,31 @@
+body{
+	background-color: #ffffff;
+}
+.topo{
+	height: 200px;
+	background-color: #CCCCCC;
+}
+.menu_esquerdo{
+	position: relative;
+	width:300px;
+	height:400px;
+	background-color: #f3f3f3;
+}
+.conteudo{
+	position: relative;
+	top: -400px;
+	left: 303px;
+	width: 1260px;
+	height: 400px;
+}
+.barra_inferior{
+	position: relative;
+	top: -401px;
+	background-color: #CCCCCC;
+	height: 100px;
+}
+
+
+
+
+	
